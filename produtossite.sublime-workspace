@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"consumoDeAlcool"
+			],
+			[
+				"id",
+				"idadeJoaquim"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "logica/primeiro_teste.html",
+			"settings":
+			{
+				"buffer_size": 212,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<meta charset=\"UTF-8\">\n\n<script>\n\tfunction pula\n\tvar ano = 2022;\n\n\n    document.write(\"Flávio tem \" + (ano - 1977) + \" anos \");\n    document.write(\"<br>\");\n    document.write(\"Joaquim tem \" + (ano - 1996) + \" anos \");\n    document.write(\"<br>\")\n    \n    ano = 2023\n    document.write(\"Barney tem \" + (ano - 1963) + \" anos\");\n\n    var idadeFlavio = 45\n    var idadeJoaquim = 26\n    var idadeBarney = 60\n\n    var media = ((idadeFlavio + idadeJoaquim + idadeBarney)/3);\n\n    document.write(\"A média das idades é \" + Math.round(media));\n\n    var nome = \"Flávio\"\n\n    document.write(\"<br>\");\n    document.write(\"A idade de \" + nome + \" é \" + idadeFlavio);\n\n</script>",
+			"file": "logica/programa.html",
+			"file_size": 812,
+			"file_write_time": 132857153825242655,
+			"settings":
+			{
+				"buffer_size": 661,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "logica/calcula_consumo.html",
+			"settings":
+			{
+				"buffer_size": 489,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "calcula_consumo.html"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/Projeto JS"
+	],
+	"file_history":
+	[
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/logica/texto_puro.html",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/logica/tio_ben.html",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/Projeto JS/aluramidi-curso-arquivos-iniciais/desafio.html",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/Projeto JS/aluramidi-curso-arquivos-iniciais/desafio-estilo.css",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/Projeto JS/aluraMidi.js/index.html",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/Projeto JS/main.js",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/index.html",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/Projeto JS/aluramidi-curso-arquivos-iniciais/index.html",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/Projeto JS/aluramidi-curso-arquivos-iniciais/css/reset.css",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/Projeto JS/aluramidi-curso-arquivos-iniciais/css/estilos.css",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/Projeto JS/1-MeuPrimeiroPrograma.js",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/style.css",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/produtos.html",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/style-home.css",
+		"/C/Users/julia/AppData/Local/Temp/Rar$DIa32788.39482/style.css",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/contato.html",
+		"/C/Users/julia/OneDrive/Área de Trabalho/julia-programa/produtos.css",
+		"/C/Users/julia/AppData/Local/Temp/Rar$DIa13332.3867/reset.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			">)",
+			"\");\n",
+			"}",
+			"\t\n",
+			"required",
+			"header",
+			"\t\t\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "logica/primeiro_teste.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "logica/programa.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 661,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "logica/calcula_consumo.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"auto_name": "calcula_consumo.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "produtossite.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
